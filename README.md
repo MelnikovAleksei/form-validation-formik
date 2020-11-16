@@ -2,11 +2,13 @@
 
 ## Создана в рамках туториала на [formik.org](https://formik.org/docs/tutorial)
 
+*Read this in other languages:* [EN](https://github.com/MelnikovAleksei/form-validation-formik/blob/master/README.EN.md)
+
 ## Описание:
 
 Комплексная форма подписки на рассылку. Каждое поле формы валидируется с помощью [Yup](https://github.com/jquense/yup). Созданы компоненты TextInput, TextareaInput, CheckboxInput, SelectInput с возможностью дальнейшего переиспользования.
 
-[Форма подписки на GitHub Pages](https://melnikovaleksei.github.io/form-validation-formik/index.html)
+[Размещение на GitHub Pages](https://melnikovaleksei.github.io/form-validation-formik/index.html)
 
 ## Технологии:
 
