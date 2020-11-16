@@ -10,7 +10,7 @@ Complex form of subscription to the newsletter. Each form field is validated wit
 
 [Deploy to GitHub Pages](https://melnikovaleksei.github.io/form-validation-formik/)
 
-Technologies:
+## Technologies:
 
 * HTML
 * CSS
