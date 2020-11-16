@@ -8,7 +8,7 @@
 
 Complex form of subscription to the newsletter. Each form field is validated with [Yup] (https://github.com/jquense/yup). The components TextInput, TextareaInput, CheckboxInput, SelectInput have been created with the possibility of further reuse.
 
-[Deploy to GitHub Pages](https://melnikovaleksei.github.io/form-validation-formik/index.html)
+[Deploy to GitHub Pages](https://melnikovaleksei.github.io/form-validation-formik/)
 
 Technologies:
 

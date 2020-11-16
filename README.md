@@ -8,7 +8,7 @@
 
 Комплексная форма подписки на рассылку. Каждое поле формы валидируется с помощью [Yup](https://github.com/jquense/yup). Созданы компоненты TextInput, TextareaInput, CheckboxInput, SelectInput с возможностью дальнейшего переиспользования.
 
-[Размещение на GitHub Pages](https://melnikovaleksei.github.io/form-validation-formik/index.html)
+[Размещение на GitHub Pages](https://melnikovaleksei.github.io/form-validation-formik/)
 
 ## Технологии:
 
