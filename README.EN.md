@@ -1,12 +1,12 @@
 # Newsletter subscription form with React and Formik.
 
-## Created as part of the tutorial on [formik.org] (https://formik.org/docs/tutorial)
+## Created as part of the tutorial on [formik.org](https://formik.org/docs/tutorial)
 
 *Read this in other languages:* [RU](https://github.com/MelnikovAleksei/form-validation-formik/blob/master/README.md)
 
 ## Description:
 
-Complex form of subscription to the newsletter. Each form field is validated with [Yup] (https://github.com/jquense/yup). The components TextInput, TextareaInput, CheckboxInput, SelectInput have been created with the possibility of further reuse.
+Complex form of subscription to the newsletter. Each form field is validated with [Yup](https://github.com/jquense/yup). The components TextInput, TextareaInput, CheckboxInput, SelectInput have been created with the possibility of further reuse.
 
 [Deploy to GitHub Pages](https://melnikovaleksei.github.io/form-validation-formik/)
 
